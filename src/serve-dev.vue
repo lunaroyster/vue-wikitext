@@ -1,6 +1,6 @@
 <script>
 import Vue from 'vue';
-import VueWikitext from '@/vueWikitext.vue';
+import VueWikitext from './vueWikitext.vue';
 
 export default Vue.extend({
   name: 'ServeDev',

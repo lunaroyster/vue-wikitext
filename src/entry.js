@@ -1,5 +1,5 @@
 // Import vue component
-import component from '@/vueWikitext.vue';
+import component from './vueWikitext.vue';
 
 // install function executed by Vue.use()
 const install = function installVueWikitext(Vue) {
