@@ -1,6 +1,6 @@
 {
   "name": "vue-wikitext",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "author": "lunaroyster",
   "license": "MIT",
@@ -12,6 +12,12 @@
     "dist/*",
     "src/**/*.vue",
     "!src/serve-dev.*"
+  ],
+  "keywords": [
+    "vue-wikitext",
+    "wikitext",
+    "wiky",
+    "wiki"
   ],
   "scripts": {
     "serve": "vue-cli-service serve src/serve-dev.js",
