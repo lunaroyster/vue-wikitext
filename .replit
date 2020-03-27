@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "vue-cli-service serve src/serve-dev.js"
