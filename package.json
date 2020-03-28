@@ -1,6 +1,6 @@
 {
   "name": "vue-wikitext",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "author": "lunaroyster",
   "license": "MIT",
@@ -51,5 +51,9 @@
   },
   "engines": {
     "node": ">=8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lunaroyster/vue-wikitext.git"
   }
 }
